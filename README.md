@@ -44,7 +44,7 @@ python -m ipykernel install --user --name torch-env --display-name "torch-env"  
 exit 
 ```
 ```
-module load gcc/11.3.0
+module load gcc/13.3.0
 module load git
 ```
 change your working direcotry to your scratch directory:
