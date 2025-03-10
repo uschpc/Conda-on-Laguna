@@ -4,7 +4,7 @@
 The material in this repo contains information on how to set up your conda and pytorch environment. Follow the same process and create separate environments for conflicting packages, for instance tensorflow.
 
 ### Software Environment Setup
-First login to CARC OnDemand: https://ondemand.carc.usc.edu/ and request a 'Discovery Cluster Shell Access' within OpenOnDemand. 
+First login to CARC OnDemand: https://laguna-ood.carc.usc.edu and request a 'Discovery Cluster Shell Access' within OpenOnDemand. 
 
 We will use Conda to build software packages. If it is the first time you are using Conda, make sure you follow the guide of how to use Conda with this link: https://www.carc.usc.edu/user-guides/data-science/building-conda-environment
 
