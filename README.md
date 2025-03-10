@@ -2,6 +2,7 @@
 
 ### About
 The material in this repo contains information on how to set up your conda and pytorch environment. Follow the same process and create separate environments for conflicting packages, for instance tensorflow.
+Also, for reference, the official Laguna website is at: https://uschpc.github.io/regional-computing-website/
 
 ### Software Environment Setup
 First login to CARC OnDemand: https://laguna-ood.carc.usc.edu and request a 'Regional Cluster Shell Access' within OpenOnDemand. 
