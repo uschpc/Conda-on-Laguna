@@ -49,7 +49,7 @@ module load git
 ```
 change your working direcotry to your scratch directory:
 ```
-cd /scratch1/$USER
+cd ~
 ```
 ```
 git clone https://github.com/uschpc/Conda-on-Laguna.git
