@@ -52,7 +52,7 @@ change your working direcotry to your scratch directory:
 cd /scratch1/$USER
 ```
 ```
-git clone https://github.com/uschpc/Conda-on-CARC.git
-cd Conda-on-CARC
+git clone https://github.com/uschpc/Conda-on-Laguna.git
+cd Conda-on-Laguna
 ```
 
