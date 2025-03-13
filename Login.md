@@ -49,9 +49,10 @@ Once generated, your keys are stored in `~/.ssh/`:
 ## Copying Your SSH Key to Laguna
 Unlike standard SSH key transfers, Laguna requires a specific process:
 1. Visit [https://hpcaccount.usc.edu/](https://hpcaccount.usc.edu/)
+   ![Login via Web Browser](Login1.png)
 2. Go to **User Profile**
 3. Follow the steps to add your public key.
- ![Login via Web Browser](Login1.png)
+
  ![Login via Web Browser](Login2.png)
 
 ## Logging into Laguna via SSH
