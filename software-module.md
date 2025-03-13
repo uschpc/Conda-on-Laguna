@@ -35,11 +35,7 @@ You can then verify the loaded software:
 which python
 ```
 
-### Example Output Before Loading:
-```sh
-$ which python
-/usr/bin/python
-```
+
 
 ### Example Output After Loading:
 ```sh
