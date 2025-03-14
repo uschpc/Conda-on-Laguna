@@ -41,7 +41,7 @@ which python
 ```sh
 $ module load python
 $ which python
-/apps/spack/2406/apps/linux-rocky8-x86_64_v3/gcc-13.3.0/python-3.11.9-x74mtjf/bin/python
+/apps/spack/2406/apps/linux-rocky8-x86_64_v3/gcc-13.3.0/python-3.13.2-gp2wlta/bin/python
 ```
 
 ## Searching for Modules
